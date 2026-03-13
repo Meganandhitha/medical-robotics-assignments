@@ -23,3 +23,4 @@
 # 7 Linkedin Post
 > Submit the LinkedIn post URL
 > [LinkedIn post URL]
+https://www.linkedin.com/posts/meganandhitha-k-203a622a3_4medcare-medicalrobotics-aiinhealthcare-ugcPost-7436995354488836096-5jpY?utm_source=share&utm_medium=member_android&rcm=ACoAAElOHKMBLHjI4t-Q2hGhMzcXqUqNQhYADfs
